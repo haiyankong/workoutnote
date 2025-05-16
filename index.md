@@ -32,7 +32,7 @@ layout: default
 - [腹部 / Waist](#腹部--waist)
 	- [前平板支撑 / Front Plank](#前平板支撑--front-plank)
 	- [船长椅直腿抬高/ Captains Chair Straight Leg Raise](#船长椅直腿抬高-captains-chair-straight-leg-raise)
-	- [俄罗斯转体 /Russian Twist](#俄罗斯转体-russian-twist)
+	- [俄罗斯转体 / Russian Twist](#俄罗斯转体--russian-twist)
 	- [V 型仰卧起坐 / V-Up](#v-型仰卧起坐--v-up)
 	- [负重上举 / Weighted Sit-Up](#负重上举--weighted-sit-up)
 	- [仰卧抬腿 / Lying Leg Raise](#仰卧抬腿--lying-leg-raise)
@@ -252,7 +252,7 @@ layout: default
 
 ### 动作参考
 
-[https://lyfta.app/zh-CN/ex/83](https://lyfta.app/zh-CN/ex/83)
+- [https://lyfta.app/zh-CN/ex/83](https://lyfta.app/zh-CN/ex/83)
 
 ## 坐姿器械推肩 / Lever Seated Shoulder Press
 
@@ -319,6 +319,7 @@ layout: default
 - 2025 年 02 月 28 日，5kg
 
 ### 动作参考
+
 - [https://lyfta.app/zh-CN/ex/6g5](https://lyfta.app/zh-CN/ex/6g5)
 
 ## 坐姿哑铃颈后臂屈 / Dumbbell Seated Triceps Extension
@@ -499,7 +500,6 @@ layout: default
 - [https://lyfta.app/zh-CN/ex/79](https://lyfta.app/zh-CN/ex/79)
 - [https://lyfta.app/zh-CN/ex/7c](https://lyfta.app/zh-CN/ex/7c)
 
-
 ## T 杆划船 / Lever T-bar Row
 
 目的：强化背部中部和下部肌群，特别是菱形肌、斜方肌和背阔肌，提升背部厚度与力量，改善肩胛骨稳定性和姿势控制
@@ -548,6 +548,7 @@ layout: default
 - 2025 年 03 月 14 日
 
 ### 动作参考
+
 - [https://lyfta.app/zh-CN/ex/8h](https://lyfta.app/zh-CN/ex/8h)
 
 # 腹部 / Waist
@@ -568,7 +569,7 @@ layout: default
 
 ### 动作参考
 
-[https://lyfta.app/zh-CN/ex/6m1](https://lyfta.app/zh-CN/ex/6m1)
+- [https://lyfta.app/zh-CN/ex/6m1](https://lyfta.app/zh-CN/ex/6m1)
 
 ## 船长椅直腿抬高/ Captains Chair Straight Leg Raise
 
@@ -592,7 +593,7 @@ layout: default
 - [https://lyfta.app/zh-CN/ex/83u](https://lyfta.app/zh-CN/ex/83u)
 - [悬挂抬腿练腹肌](https://www.jianshen8.com/jirou/fubu/16570.html)
 
-## 俄罗斯转体 /Russian Twist
+## 俄罗斯转体 / Russian Twist
 
 目的：强化腹部斜肌和核心旋转控制能力，提升躯干的稳定性与灵活性，有助于改善运动中的旋转动作和整体核心力量
 
