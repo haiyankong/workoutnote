@@ -36,7 +36,7 @@ layout: default
 	- [V 型仰卧起坐 / V-Up](#v-型仰卧起坐--v-up)
 	- [负重上举 / Weighted Sit-Up](#负重上举--weighted-sit-up)
 	- [仰卧抬腿 / Lying Leg Raise](#仰卧抬腿--lying-leg-raise)
-	- [罗马椅的一个练腹动作，忘记名字了 / Roman Chair](#罗马椅的一个练腹动作忘记名字了--roman-chair)
+	- [罗马椅负重侧腹 / Roman Chair](#罗马椅负重侧腹--roman-chair)
 - [臀腿](#臀腿-1)
 	- [概述](#概述)
 	- [深蹲 / Squat](#深蹲--squat)
@@ -664,7 +664,11 @@ layout: default
 
 - [https://lyfta.app/zh-CN/ex/755](https://lyfta.app/zh-CN/ex/755)
 
-## 罗马椅的一个练腹动作，忘记名字了 / Roman Chair
+## 罗马椅负重侧腹 / Weighted Side Bends on Roman Chair
+
+目的：强化侧腹肌群（腹外斜肌、腹内斜肌），有助于增强躯干的旋转和侧屈能力
+
+![罗马椅负重侧腹](assets/罗马椅负重侧腹.gif)
 
 ### 训练记录
 
