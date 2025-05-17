@@ -36,7 +36,7 @@ layout: default
 	- [V 型仰卧起坐 / V-Up](#v-型仰卧起坐--v-up)
 	- [负重上举 / Weighted Sit-Up](#负重上举--weighted-sit-up)
 	- [仰卧抬腿 / Lying Leg Raise](#仰卧抬腿--lying-leg-raise)
-	- [罗马椅负重侧腹 / Roman Chair](#罗马椅负重侧腹--roman-chair)
+	- [罗马椅负重侧腹 / Weighted Side Bends on Roman Chair](#罗马椅负重侧腹--weighted-side-bends-on-roman-chair)
 - [臀腿](#臀腿-1)
 	- [概述](#概述)
 	- [深蹲 / Squat](#深蹲--squat)
