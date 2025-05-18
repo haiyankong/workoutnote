@@ -16,6 +16,8 @@ layout: default
 	- [阿诺德推肩 / Arnold Press](#阿诺德推肩--arnold-press)
 	- [坐姿器械推肩 / Lever Seated Shoulder Press](#坐姿器械推肩--lever-seated-shoulder-press)
 	- [哑铃侧平举 / Dumbbell Lateral Raise](#哑铃侧平举--dumbbell-lateral-raise)
+- [肱二头肌 / Biceps](#肱二头肌--biceps)
+	- [直杆弯举 / Cable Bicep Curl Standards](#直杆弯举--cable-bicep-curl-standards)
 - [肱三头肌 / Triceps](#肱三头肌--triceps)
 	- [绳索三头肌下压 /Cable Triceps Pushdown](#绳索三头肌下压-cable-triceps-pushdown)
 	- [坐姿哑铃颈后臂屈 / Dumbbell Seated Triceps Extension](#坐姿哑铃颈后臂屈--dumbbell-seated-triceps-extension)
@@ -29,6 +31,9 @@ layout: default
 	- [T 杆划船 / Lever T-bar Row](#t-杆划船--lever-t-bar-row)
 	- [罗马椅伸展 / Roman Chair Extension](#罗马椅伸展--roman-chair-extension)
 	- [单臂哑铃划船 / One Arm Bent-over Row](#单臂哑铃划船--one-arm-bent-over-row)
+	- [直臂下压 / Cable Straight Arm Pulldown](#直臂下压--cable-straight-arm-pulldown)
+- [胸部 / Chest](#胸部--chest)
+	- [杠铃卧推 / Barbell Bench Press](#杠铃卧推--barbell-bench-press)
 - [腹部 / Waist](#腹部--waist)
 	- [前平板支撑 / Front Plank](#前平板支撑--front-plank)
 	- [船长椅直腿抬高/ Captains Chair Straight Leg Raise](#船长椅直腿抬高-captains-chair-straight-leg-raise)
@@ -57,6 +62,7 @@ layout: default
 - [注意点](#注意点)
 	- [快拉慢放](#快拉慢放)
 	- [4 组可以可以逐步减重，加数量，也可以反着](#4-组可以可以逐步减重加数量也可以反着)
+	- [吸气抗重量，呼气推重量](#吸气抗重量呼气推重量)
 - [相关链接](#相关链接)
 <!-- tocstop -->
 
@@ -297,6 +303,31 @@ layout: default
 
 - [https://lyfta.app/zh-CN/ex/6iq](https://lyfta.app/zh-CN/ex/6iq)
 
+# 肱二头肌 / Biceps
+
+## 直杆弯举 / Cable Bicep Curl Standards
+
+目的：主要锻炼肱二头肌，增强手臂力量和肌肉轮廓。相比自由重量，滑轮提供持续张力，有助于整个动作范围内保持肌肉激活
+
+4 组，每组 12 到 20 个
+
+- 双脚与肩同宽站立，核心收紧，保持身体稳定
+- 双手正握直杆，握距略宽于肩或与肩同宽
+- 抬头挺胸，固定大臂在身体两侧，不借力摆动
+- 将横杆弯举至胸前，集中收缩肱二头肌
+- 快提慢放：提起时呼气，控制下放时吸气
+
+![直杆弯举](assets/直臂弯举.png)
+
+### 训练记录
+
+- 2025 年 05 月 18 日，4 组，每组 12 个，10 kg（或者 7.5kg）
+
+### 动作参考
+
+- [https://www.youtube.com/watch?v=rfRdD5PKrko](https://www.youtube.com/watch?v=rfRdD5PKrko)
+- [https://strengthlevel.com/strength-standards/cable-bicep-curl/lb](https://strengthlevel.com/strength-standards/cable-bicep-curl/lb)
+
 # 肱三头肌 / Triceps
 
 ## 绳索三头肌下压 /Cable Triceps Pushdown
@@ -534,7 +565,7 @@ layout: default
 
 目的：强化背阔肌、菱形肌和斜方肌，同时锻炼核心稳定性，促进身体左右侧力量平衡与协调
 
-目的：训练中侧背部
+每侧 3 组，每组 12 到 20 个
 
 - 将另一侧的膝盖和手放在长凳上以获得支撑，保持背部平坦并与地板平行，对侧腿支撑住地面，形成三角稳定结构
 - 让握住哑铃的手臂垂下并稍微向前
@@ -550,6 +581,55 @@ layout: default
 ### 动作参考
 
 - [https://lyfta.app/zh-CN/ex/8h](https://lyfta.app/zh-CN/ex/8h)
+
+## 直臂下压 / Cable Straight Arm Pulldown
+
+目的：主要针对背部肌肉，尤其是背阔肌，同时也锻炼肩膀和核心肌群
+
+4 组，每组 12 到 20 个
+
+- 身体稍远离滑轮站立，双脚与肩同宽，微屈膝、挺胸收腹，保持腰背稳定
+- 起始时身体略微前倾，背部收紧，不要耸肩，目光向下
+- 用手掌向下按压横杆（而非紧握），双手间距略宽于肩，减少手臂代偿
+- 放松手臂，让滑轮带动手臂自然伸直，感受背部拉伸
+- 向下拉至大腿前，肩膀向后展，动作底部挤压背阔肌，顺势抬头
+- 快压慢回：控制回程，避免惯性，维持肌肉张力
+- 向下拉压时呼气（发力阶段），控制回放时吸气（放松阶段）
+
+![直臂下压](assets/直臂下压.gif)
+
+### 训练记录
+
+- 2025 年 05 月 18 日，4 组，每组 12 个，5 kg
+
+### 动作参考
+
+- [https://lyfta.app/zh-CN/ex/6fc](https://lyfta.app/zh-CN/ex/6fc)
+
+# 胸部 / Chest
+
+## 杠铃卧推 / Barbell Bench Press
+
+目的：主要针对胸部肌肉，同时也锻炼肩膀和三头肌
+
+4 组，每组 12 到 20 个
+
+- 平躺在卧推凳上，双手握杠，握距略宽于肩，确保前臂垂直地面
+- 手掌正握，保持手腕中立，不歪斜，让手掌竖着朝向地面
+- 初始位置将杠铃置于上胸上方
+- 向上推起杠铃，伸直手臂，但不过度锁肘
+- 控制下放节奏：快推慢放，增加肌肉张力
+- 推起杠铃时呼气（发力时呼气，更有力），下放杠铃时吸气（胸腔扩张，增强稳定性）
+
+![杠铃卧推](assets/杠铃卧推.gif)
+
+### 训练记录
+
+- 2025 年 05 月 18 日，4 组，每组 12 个，10 kg（但有教练辅助，自己举不动这个重量）
+
+### 动作参考
+
+- [https://lyfta.app/zh-CN/ex/605](https://lyfta.app/zh-CN/ex/605)
 
 # 腹部 / Waist
 
@@ -640,6 +720,8 @@ layout: default
 
 目的：增加腹直肌和核心肌群的力量与耐力，通过负重提升训练强度，促进腹部肌肉的增长和功能提升
 
+4 组，每组 12 到 20 个
+
 ![负重上举](assets/负重上举.gif)
 
 ### 训练记录
@@ -654,6 +736,8 @@ layout: default
 
 目的：主要锻炼腹直肌下部和髋屈肌，增强核心力量和下腹部控制，改善躯干稳定性
 
+4 组，每组 12 到 20 个
+
 ![仰卧抬腿](assets/仰卧抬腿.gif)
 
 ### 训练记录
@@ -667,6 +751,8 @@ layout: default
 ## 罗马椅负重侧腹 / Weighted Side Bends on Roman Chair
 
 目的：强化侧腹肌群（腹外斜肌、腹内斜肌），有助于增强躯干的旋转和侧屈能力
+
+4 组，每组 12 到 20 个
 
 ![罗马椅负重侧腹](assets/罗马椅负重侧腹.gif)
 
@@ -950,9 +1036,9 @@ layout: default
 
 ## 哑铃箭步蹲 / Dumbbell lunge
 
-4 组，每组 12 到 20 个
-
 目的：锻炼股四头肌、臀大肌和腘绳肌，提升单腿力量、平衡性和动态稳定性，同时强化核心肌群，有助于改善功能性运动表现
+
+4 组，每组 12 到 20 个
 
 - 下蹲时前腿的膝关节不要超过脚尖，身体重心在两腿之间
 - 起立时身体不要前倾，要保持正直
@@ -1016,6 +1102,8 @@ layout: default
 ## 快拉慢放
 
 ## 4 组可以可以逐步减重，加数量，也可以反着
+
+## 吸气抗重量，呼气推重量
 
 # 相关链接
 
