@@ -18,6 +18,8 @@ layout: default
 	- [哑铃侧平举 / Dumbbell Lateral Raise](#哑铃侧平举--dumbbell-lateral-raise)
 - [肱二头肌 / Biceps](#肱二头肌--biceps)
 	- [直杆弯举 / Cable Bicep Curl Standards](#直杆弯举--cable-bicep-curl-standards)
+	- [杠铃弯举 / Barbell Curl](#杠铃弯举--barbell-curl)
+	- [哑铃弯举 / Dumbbell Curl](#哑铃弯举--dumbbell-curl)
 - [肱三头肌 / Triceps](#肱三头肌--triceps)
 	- [绳索三头肌下压 /Cable Triceps Pushdown](#绳索三头肌下压-cable-triceps-pushdown)
 	- [坐姿哑铃颈后臂屈 / Dumbbell Seated Triceps Extension](#坐姿哑铃颈后臂屈--dumbbell-seated-triceps-extension)
@@ -62,7 +64,7 @@ layout: default
 - [注意点](#注意点)
 	- [快拉慢放](#快拉慢放)
 	- [4 组可以可以逐步减重，加数量，也可以反着](#4-组可以可以逐步减重加数量也可以反着)
-	- [吸气抗重量，呼气推重量](#吸气抗重量呼气推重量)
+	- [用力时呼气，放松时吸气](#用力时呼气放松时吸气)
 - [相关链接](#相关链接)
 <!-- /TOC -->
 
@@ -353,6 +355,57 @@ layout: default
 
 - [https://www.youtube.com/watch?v=rfRdD5PKrko](https://www.youtube.com/watch?v=rfRdD5PKrko)
 - [https://strengthlevel.com/strength-standards/cable-bicep-curl/lb](https://strengthlevel.com/strength-standards/cable-bicep-curl/lb)
+
+## 杠铃弯举 / Barbell Curl
+
+目的：锻炼肱二头肌。
+
+4 组，每组 12 到 20 个
+
+- 双脚与髋同宽站立，核心收紧，保持身体稳定
+- 双手握住杆，握距与身体同宽即可
+- 双手自然垂直，手臂内侧朝前
+- 抬头挺胸，固定大臂在身体两侧，不借力摆动
+- 将杠铃弯举至胸前，集中收缩肱二头肌
+- 快提慢放：提起时呼气，控制下放时吸气
+- （图中的抓握方式略不同，以上述文字为准）
+
+![杠铃弯举](assets/杠铃弯举.gif)
+
+### 训练记录
+
+- 2025 年 06 月 29 日，3 组，每组 12 个，10kg
+
+### 动作参考
+
+- [https://lyfta.app/zh-CN/ex/1](https://lyfta.app/zh-CN/ex/1)
+
+## 哑铃弯举 / Dumbbell Curl
+
+目的：锻炼肱二头肌，或者根据不同变式加强肱肌和肱桡肌。
+
+4 组，两只手臂可以一个一个交替，每组 12 到 20 个
+
+- 双脚与髋同宽站立，核心收紧，保持身体稳定
+- 双手握住哑铃，握距与身体同宽即可
+- 双手自然垂直，手臂内侧朝前
+- 抬头挺胸，固定大臂在身体两侧，不借力摆动
+- 将哑铃弯举至胸前，集中收缩肱二头肌
+- 快提慢放：提起时呼气，控制下放时吸气
+
+![哑铃弯举](assets/哑铃弯举.png)
+
+![哑铃弯举](assets/哑铃弯举.gif)
+
+### 训练记录
+
+- 2025 年 06 月 29 日，1 组，每一只手 4 kg，交替各 12 个
+
+### 动作参考
+
+- [https://weighttraining.guide/exercises/dumbbell-curl/](https://weighttraining.guide/exercises/dumbbell-curl/)
+- [https://lyfta.app/zh-CN/ex/8j](https://lyfta.app/zh-CN/ex/8j)
+
 
 # 肱三头肌 / Triceps
 
@@ -1024,10 +1077,11 @@ layout: default
 
 4 组，每组 12 到 20 个
 
-- 双脚踩在板子上，双脚打开，脚后跟与髋同宽，脚尖稍微朝外一点
+- 双脚踩在板子上，双脚打开，脚后跟与比肩略宽，脚尖稍微朝外一点
 - 膝盖与脚尖处于同一条线上
 - 双手可以放在大腿或者两边器材上
 - 用力蹬的时候，用脚后跟发力，脚尖不要发力，这样可以保证膝盖稳定，一直推到器械直到膝盖不锁死的状态，即腿不完全蹬直，保持微屈
+- 中间不要停，立刻回收，但是回收的时候要慢，即快推慢回
 - 往回收的时候，膝盖不要乱晃，既不要内扣，也不要往外展开，要和脚尖处于同一线，回的话要收到最初始状态
 
 ![器械倒蹬1](assets/器械倒蹬1.gif)
@@ -1039,6 +1093,7 @@ layout: default
 - 2025 年 04 月 05 日，4 组，每组 15 个，40kg
 - 2025 年 04 月 13 日，前 2 组 40kg 每组 12 个，后 2 组 30 kg，每组 15 个
 - 2025 年 06 月 16 日，前 2 组 30kg 每组 15 个，后 2 组 40 kg，每组 15 个
+- 2025 年 06 月 29 日，4 组，每组 15 个，40kg
 
 ### 动作参考
 
@@ -1051,7 +1106,7 @@ layout: default
 4 组，每组 12 到 20 个
 
 - 脚跟要踩稳，膝盖与小黑块平齐
-- 背部保持挺直，不要倚靠也不要驼背，头不要前伸
+- 背部保持挺直，不要倚靠也不要驼背，头不要前伸（与图中略不同）
 - 快速向外打开，缓慢向内收，控制器械慢回
 - 每一组的最后一个也可以保持向外打开的状态十秒，或者每一组最后一个，不要完全回去，保持小幅度收放
 
@@ -1063,6 +1118,7 @@ layout: default
 - 2025 年 03 月 24 日
 - 2025 年 03 月 27 日，4 组，每组 15 个，20kg
 - 2025 年 04 月 05 日，4 组，每组 15 个
+- 2025 年 06 月 29 日，4 组，每组 15 个大幅度摆动 + 15 个小幅度摆动 + 5 秒不回放回，20kg
 
 ### 动作参考
 
