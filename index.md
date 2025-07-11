@@ -470,8 +470,6 @@ layout: default
 
 ![辅助引体向上](assets/辅助引体向上.png)
 
-![辅助引体向上](assets/辅助引体向上.png)
-
 ![pull-up-vs-muscle-up](assets/pull-up-vs-muscle-up.gif)
 
 ### 训练记录
